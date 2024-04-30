@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.background {
+  background-color: black;
+  color: white;
+  height: 100vh;
+  width: 100vw;
+  padding: 60px;
+  text-align: center;
+}
+.image {
+  height: 300px;
+  width: 700px;
+  padding: 20px;
+}
+.para {
+  padding: 20px;
+}
+.buttonblue {
+  background-color: blue;
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 15px;
+  margin: 8px;
+}
+
+.button {
+  background-color: transparent;
+  padding: 15px;
+  border-radius: 15px;
+  font-size: 15px;
+  margin: 8px;
+  color: white;
+}
